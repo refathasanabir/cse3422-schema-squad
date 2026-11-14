@@ -8,23 +8,23 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
-| | @ | Backend lead | | |
-| | @ | Frontend lead | | |
-| | @ | Quality and DevOps lead | | |
+| Refat Hasan | @refathasanabir | Team Lead / Scrum Master | | |
+| Aninda Talukdar | @anindatalukdar2410506 | Backend Lead | | |
+| Rokeya Akter | @Anupama2410016 | Frontend Lead | | |
+| Ahmad Raiyan | @ahmadriyan126 | Quality and DevOps Lead | | |
 
 ## Communication
 
-- Main channel (e.g., a Messenger or Discord group): …
-- We reply to teammates within: … hours on weekdays
+- Main channel: WhatsApp group
+- We reply to teammates within: 2 hours on weekdays
 - Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
 - Help from the instructor: through GitHub **Help request** issues
 
 ## Meeting rhythm
 
-- Weekly planning: day and time …, about 30 minutes, online or in person
-- Short check-ins: … (e.g., Monday and Thursday, 10 minutes)
-- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
+- Weekly planning: Sunday at 9:00 PM, about 30 minutes, online
+- Short check-ins: Monday and Thursday, 10 minutes
+- Weekly status report in `reports/YYYY-MM-DD.md`, written by: Rotates weekly among all four members
 
 ## Definition of Done
 
